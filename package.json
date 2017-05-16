@@ -1,6 +1,6 @@
 {
   "name": "file-read",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Read file with specified size.",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,9 @@
     "url": "git+https://github.com/LowryTang/file-read.git"
   },
   "keywords": [
-    "file-read"
+    "fileRead",
+    "readSize",
+    "readTail"
   ],
   "author": "Lowry",
   "license": "MIT",
